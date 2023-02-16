@@ -4,7 +4,7 @@ A compiled programming language, fast in performance made using the powerful glo
 ## Code Exemple
 
 ```custom
-using std;
+using io;
 
 enum Enumeration => byte {
   Choice1 = 0,
